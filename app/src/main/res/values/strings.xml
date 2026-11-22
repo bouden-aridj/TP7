@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP7</string>
+    <string name="file_name">File name</string>
+    <string name="save">Save</string>
+    <string name="open">Open</string>
+    <string name="note_hint">Type your text here…</string>
+    <string name="words_zero">Words: 0</string>
+    <string name="search_hint">Word to search</string>
+    <string name="search">Search</string>
+</resources>
